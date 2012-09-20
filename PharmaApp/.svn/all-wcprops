@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/dc-si/!svn/ver/98/PIN/trunk/PharmaApp%20V2.0/PharmaApp
+END
+main.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/dc-si/!svn/ver/95/PIN/trunk/PharmaApp%20V2.0/PharmaApp/main.m
+END
+AppDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/dc-si/!svn/ver/95/PIN/trunk/PharmaApp%20V2.0/PharmaApp/AppDelegate.h
+END
+PharmaApp.entitlements
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/dc-si/!svn/ver/95/PIN/trunk/PharmaApp%20V2.0/PharmaApp/PharmaApp.entitlements
+END
+AppDelegate.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/dc-si/!svn/ver/95/PIN/trunk/PharmaApp%20V2.0/PharmaApp/AppDelegate.m
+END
+PharmaApp-Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/dc-si/!svn/ver/98/PIN/trunk/PharmaApp%20V2.0/PharmaApp/PharmaApp-Info.plist
+END
+PharmaApp-Prefix.pch
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/dc-si/!svn/ver/95/PIN/trunk/PharmaApp%20V2.0/PharmaApp/PharmaApp-Prefix.pch
+END

@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/dc-si/!svn/ver/95/PIN/trunk/PharmaApp%20V2.0/PharmaApp/DataAccess/DataObject
+END
+RegionBrandPerfDO.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/dc-si/!svn/ver/95/PIN/trunk/PharmaApp%20V2.0/PharmaApp/DataAccess/DataObject/RegionBrandPerfDO.h
+END
+BrandPerfRegionDO.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/dc-si/!svn/ver/95/PIN/trunk/PharmaApp%20V2.0/PharmaApp/DataAccess/DataObject/BrandPerfRegionDO.h
+END
+BrandPerfDO.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/dc-si/!svn/ver/95/PIN/trunk/PharmaApp%20V2.0/PharmaApp/DataAccess/DataObject/BrandPerfDO.m
+END
+RegionBrandPerfDO.m
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/dc-si/!svn/ver/95/PIN/trunk/PharmaApp%20V2.0/PharmaApp/DataAccess/DataObject/RegionBrandPerfDO.m
+END
+BrandPerfRegionDO.m
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/dc-si/!svn/ver/95/PIN/trunk/PharmaApp%20V2.0/PharmaApp/DataAccess/DataObject/BrandPerfRegionDO.m
+END
+StateDO.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/dc-si/!svn/ver/95/PIN/trunk/PharmaApp%20V2.0/PharmaApp/DataAccess/DataObject/StateDO.h
+END
+SocialPostDO.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/dc-si/!svn/ver/95/PIN/trunk/PharmaApp%20V2.0/PharmaApp/DataAccess/DataObject/SocialPostDO.h
+END
+RegionDO.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/dc-si/!svn/ver/95/PIN/trunk/PharmaApp%20V2.0/PharmaApp/DataAccess/DataObject/RegionDO.h
+END
+StateDO.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/dc-si/!svn/ver/95/PIN/trunk/PharmaApp%20V2.0/PharmaApp/DataAccess/DataObject/StateDO.m
+END
+SocialPostDO.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/dc-si/!svn/ver/95/PIN/trunk/PharmaApp%20V2.0/PharmaApp/DataAccess/DataObject/SocialPostDO.m
+END
+BrandDO.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/dc-si/!svn/ver/95/PIN/trunk/PharmaApp%20V2.0/PharmaApp/DataAccess/DataObject/BrandDO.h
+END
+RegionDO.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/dc-si/!svn/ver/95/PIN/trunk/PharmaApp%20V2.0/PharmaApp/DataAccess/DataObject/RegionDO.m
+END
+BrandDO.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/dc-si/!svn/ver/95/PIN/trunk/PharmaApp%20V2.0/PharmaApp/DataAccess/DataObject/BrandDO.m
+END
+RegionPerfDO.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/dc-si/!svn/ver/95/PIN/trunk/PharmaApp%20V2.0/PharmaApp/DataAccess/DataObject/RegionPerfDO.h
+END
+BrandPerfDO.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/dc-si/!svn/ver/95/PIN/trunk/PharmaApp%20V2.0/PharmaApp/DataAccess/DataObject/BrandPerfDO.h
+END
+RegionPerfDO.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/dc-si/!svn/ver/95/PIN/trunk/PharmaApp%20V2.0/PharmaApp/DataAccess/DataObject/RegionPerfDO.m
+END

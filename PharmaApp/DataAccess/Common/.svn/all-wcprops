@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/dc-si/!svn/ver/95/PIN/trunk/PharmaApp%20V2.0/PharmaApp/DataAccess/Common
+END
+HTMLBuilder.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/dc-si/!svn/ver/95/PIN/trunk/PharmaApp%20V2.0/PharmaApp/DataAccess/Common/HTMLBuilder.h
+END
+DAOPharma.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/dc-si/!svn/ver/95/PIN/trunk/PharmaApp%20V2.0/PharmaApp/DataAccess/Common/DAOPharma.h
+END
+PharmaDAO.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/dc-si/!svn/ver/95/PIN/trunk/PharmaApp%20V2.0/PharmaApp/DataAccess/Common/PharmaDAO.h
+END
+HTMLBuilder.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/dc-si/!svn/ver/95/PIN/trunk/PharmaApp%20V2.0/PharmaApp/DataAccess/Common/HTMLBuilder.m
+END
+SharedData.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/dc-si/!svn/ver/95/PIN/trunk/PharmaApp%20V2.0/PharmaApp/DataAccess/Common/SharedData.h
+END
+DAOPharma.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/dc-si/!svn/ver/95/PIN/trunk/PharmaApp%20V2.0/PharmaApp/DataAccess/Common/DAOPharma.m
+END
+PharmaDAO.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/dc-si/!svn/ver/95/PIN/trunk/PharmaApp%20V2.0/PharmaApp/DataAccess/Common/PharmaDAO.m
+END
+SharedData.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/dc-si/!svn/ver/95/PIN/trunk/PharmaApp%20V2.0/PharmaApp/DataAccess/Common/SharedData.m
+END

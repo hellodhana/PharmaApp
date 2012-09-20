@@ -1,0 +1,233 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/dc-si/!svn/ver/96/PIN/trunk/PharmaApp%20V2.0/PharmaApp/ViewControllers/Reports/Views
+END
+SocialPerformanceView.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/dc-si/!svn/ver/95/PIN/trunk/PharmaApp%20V2.0/PharmaApp/ViewControllers/Reports/Views/SocialPerformanceView.m
+END
+SocialPostTable.m
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/dc-si/!svn/ver/95/PIN/trunk/PharmaApp%20V2.0/PharmaApp/ViewControllers/Reports/Views/SocialPostTable.m
+END
+AdoptionNWView.xib
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/dc-si/!svn/ver/95/PIN/trunk/PharmaApp%20V2.0/PharmaApp/ViewControllers/Reports/Views/AdoptionNWView.xib
+END
+SocialPostTitleView.xib
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/dc-si/!svn/ver/95/PIN/trunk/PharmaApp%20V2.0/PharmaApp/ViewControllers/Reports/Views/SocialPostTitleView.xib
+END
+IntensityView.xib
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/dc-si/!svn/ver/96/PIN/trunk/PharmaApp%20V2.0/PharmaApp/ViewControllers/Reports/Views/IntensityView.xib
+END
+SFAReportsSidebarView.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/dc-si/!svn/ver/96/PIN/trunk/PharmaApp%20V2.0/PharmaApp/ViewControllers/Reports/Views/SFAReportsSidebarView.h
+END
+AdoptionNWView.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/dc-si/!svn/ver/95/PIN/trunk/PharmaApp%20V2.0/PharmaApp/ViewControllers/Reports/Views/AdoptionNWView.h
+END
+SocialPostTitleView.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/dc-si/!svn/ver/95/PIN/trunk/PharmaApp%20V2.0/PharmaApp/ViewControllers/Reports/Views/SocialPostTitleView.h
+END
+DurabilityTable.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/dc-si/!svn/ver/95/PIN/trunk/PharmaApp%20V2.0/PharmaApp/ViewControllers/Reports/Views/DurabilityTable.h
+END
+IntensityView.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/dc-si/!svn/ver/96/PIN/trunk/PharmaApp%20V2.0/PharmaApp/ViewControllers/Reports/Views/IntensityView.h
+END
+AdoptionDurabView.xib
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/dc-si/!svn/ver/95/PIN/trunk/PharmaApp%20V2.0/PharmaApp/ViewControllers/Reports/Views/AdoptionDurabView.xib
+END
+SFAReportsSidebarView.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/dc-si/!svn/ver/95/PIN/trunk/PharmaApp%20V2.0/PharmaApp/ViewControllers/Reports/Views/SFAReportsSidebarView.m
+END
+AdoptionNWView.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/dc-si/!svn/ver/95/PIN/trunk/PharmaApp%20V2.0/PharmaApp/ViewControllers/Reports/Views/AdoptionNWView.m
+END
+SocialPostTitleView.m
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/dc-si/!svn/ver/95/PIN/trunk/PharmaApp%20V2.0/PharmaApp/ViewControllers/Reports/Views/SocialPostTitleView.m
+END
+SocialPostTableCell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/dc-si/!svn/ver/95/PIN/trunk/PharmaApp%20V2.0/PharmaApp/ViewControllers/Reports/Views/SocialPostTableCell.xib
+END
+SelfOrgMapView.xib
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/dc-si/!svn/ver/95/PIN/trunk/PharmaApp%20V2.0/PharmaApp/ViewControllers/Reports/Views/SelfOrgMapView.xib
+END
+DurabilityTable.m
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/dc-si/!svn/ver/95/PIN/trunk/PharmaApp%20V2.0/PharmaApp/ViewControllers/Reports/Views/DurabilityTable.m
+END
+IntensityView.m
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/dc-si/!svn/ver/96/PIN/trunk/PharmaApp%20V2.0/PharmaApp/ViewControllers/Reports/Views/IntensityView.m
+END
+AdoptionDurabView.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/dc-si/!svn/ver/95/PIN/trunk/PharmaApp%20V2.0/PharmaApp/ViewControllers/Reports/Views/AdoptionDurabView.h
+END
+DurabilityIndexView.xib
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/dc-si/!svn/ver/95/PIN/trunk/PharmaApp%20V2.0/PharmaApp/ViewControllers/Reports/Views/DurabilityIndexView.xib
+END
+SocialPostTableCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/dc-si/!svn/ver/95/PIN/trunk/PharmaApp%20V2.0/PharmaApp/ViewControllers/Reports/Views/SocialPostTableCell.h
+END
+SelfOrgMapView.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/dc-si/!svn/ver/95/PIN/trunk/PharmaApp%20V2.0/PharmaApp/ViewControllers/Reports/Views/SelfOrgMapView.h
+END
+AdoptionDurabView.m
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/dc-si/!svn/ver/95/PIN/trunk/PharmaApp%20V2.0/PharmaApp/ViewControllers/Reports/Views/AdoptionDurabView.m
+END
+DurabilityIndexView.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/dc-si/!svn/ver/95/PIN/trunk/PharmaApp%20V2.0/PharmaApp/ViewControllers/Reports/Views/DurabilityIndexView.h
+END
+SocialPostTableCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/dc-si/!svn/ver/95/PIN/trunk/PharmaApp%20V2.0/PharmaApp/ViewControllers/Reports/Views/SocialPostTableCell.m
+END
+SelfOrgMapView.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/dc-si/!svn/ver/95/PIN/trunk/PharmaApp%20V2.0/PharmaApp/ViewControllers/Reports/Views/SelfOrgMapView.m
+END
+DurabilityTitleView.xib
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/dc-si/!svn/ver/95/PIN/trunk/PharmaApp%20V2.0/PharmaApp/ViewControllers/Reports/Views/DurabilityTitleView.xib
+END
+DurabilityIndexView.m
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/dc-si/!svn/ver/95/PIN/trunk/PharmaApp%20V2.0/PharmaApp/ViewControllers/Reports/Views/DurabilityIndexView.m
+END
+DurabilityTitleView.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/dc-si/!svn/ver/95/PIN/trunk/PharmaApp%20V2.0/PharmaApp/ViewControllers/Reports/Views/DurabilityTitleView.h
+END
+DurabilityTitleView.m
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/dc-si/!svn/ver/95/PIN/trunk/PharmaApp%20V2.0/PharmaApp/ViewControllers/Reports/Views/DurabilityTitleView.m
+END
+DurabilityTableCell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/dc-si/!svn/ver/95/PIN/trunk/PharmaApp%20V2.0/PharmaApp/ViewControllers/Reports/Views/DurabilityTableCell.xib
+END
+DurabilityTableCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/dc-si/!svn/ver/95/PIN/trunk/PharmaApp%20V2.0/PharmaApp/ViewControllers/Reports/Views/DurabilityTableCell.h
+END
+SocialPerformanceView.xib
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/dc-si/!svn/ver/95/PIN/trunk/PharmaApp%20V2.0/PharmaApp/ViewControllers/Reports/Views/SocialPerformanceView.xib
+END
+SFAReportsSidebarCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/dc-si/!svn/ver/95/PIN/trunk/PharmaApp%20V2.0/PharmaApp/ViewControllers/Reports/Views/SFAReportsSidebarCell.h
+END
+DurabilityTableCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/dc-si/!svn/ver/96/PIN/trunk/PharmaApp%20V2.0/PharmaApp/ViewControllers/Reports/Views/DurabilityTableCell.m
+END
+SocialPerformanceView.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/dc-si/!svn/ver/95/PIN/trunk/PharmaApp%20V2.0/PharmaApp/ViewControllers/Reports/Views/SocialPerformanceView.h
+END
+SFAReportsSidebarCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/dc-si/!svn/ver/95/PIN/trunk/PharmaApp%20V2.0/PharmaApp/ViewControllers/Reports/Views/SFAReportsSidebarCell.m
+END
+SocialPostTable.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/dc-si/!svn/ver/95/PIN/trunk/PharmaApp%20V2.0/PharmaApp/ViewControllers/Reports/Views/SocialPostTable.h
+END
